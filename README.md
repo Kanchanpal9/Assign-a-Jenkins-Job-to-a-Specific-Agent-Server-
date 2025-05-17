@@ -33,3 +33,19 @@ Create a job used pipeline
 ![Screenshot 2025-05-18 005317](https://github.com/user-attachments/assets/60484da4-4e88-4fae-92c2-237f6d2ae4ab)
 
 ![Screenshot 2025-05-18 011544](https://github.com/user-attachments/assets/c1af110a-a52f-4da3-a60c-127860e39a9c)
+
+
+
+
+Create a declarative Pipeline
+![Screenshot 2025-05-18 011843](https://github.com/user-attachments/assets/e8d43b47-de0d-403f-a68f-bdd43eaa731f)
+
+![Screenshot 2025-05-18 012126](https://github.com/user-attachments/assets/5a9ef7e2-8b05-4386-9189-01bfb40d776c)
+
+![Screenshot 2025-05-18 012816](https://github.com/user-attachments/assets/036a4148-c88e-4346-889a-bdd40f2c348b)
+
+![Screenshot 2025-05-18 012823](https://github.com/user-attachments/assets/ba8c027c-8a14-4f88-b59b-5adc536742c1)
+
+![Screenshot 2025-05-18 012849](https://github.com/user-attachments/assets/f11e363f-13c8-4e8c-900d-c7e8c00450a2)
+
+![Screenshot 2025-05-18 012854](https://github.com/user-attachments/assets/48197507-9158-4879-8b12-2e3dfcfca213)
